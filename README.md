@@ -8,7 +8,7 @@
 
 Lista para ver cambios en el repositorio local
 
-+cambio 1
-+cambio 2
++ cambio 1
++ cambio 2
 
 >modificacion en el archivo para el nuevo commit
